@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Aurora's Secret Base
 
 You can use the [editor on GitHub](https://github.com/Aurora7july/Aurora7july.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
