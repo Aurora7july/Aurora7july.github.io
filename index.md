@@ -10,7 +10,7 @@ The knowledge I know is actually very little, so I am glad that someone can comm
 
 Email:yep6344@gmail.com
 
-Github:Aurora7july
+Github:[Aurora7july](https://github.com/Aurora7july)
 
 ## 上面用英文是担心中文会显示乱码
 测试了下发现还好，等会修改下。其实我蛮喜欢用英文的，因为我的英语基础比较差233但是挺渴望交流的，希望能在全世界遇到更多的大佬能够一起学习，如果可以我会试试使用双语
